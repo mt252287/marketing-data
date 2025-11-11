@@ -1,0 +1,11 @@
+Customer_ID,First_Name,Last_Name,Age,Gender,State,Email,OptOutFlag,SuperSuppressionFlag,NCOA_Date,Vertical
+101,Anita,Gurung,32,Female,VA,anita.gurung@email.com,N,N,2025-09-20,Healthcare
+102,Samir,Lama,45,Male,MD,samir.lama@email.com,N,N,2025-08-28,Finance
+103,Binod,Tamang,29,Male,VA,binod.tamang@email.com,N,Y,2025-10-01,Healthcare
+104,Kriti,Bhattarai,54,Female,PA,kriti.bhattarai@email.com,Y,N,2025-09-05,Healthcare
+105,Raj,Thapa,38,Male,VA,raj.thapa@email.com,N,N,2025-09-25,Healthcare
+106,Puja,Shrestha,27,Female,NC,puja.shrestha@email.com,N,N,2025-10-02,Finance
+107,Rita,Basnet,42,Female,VA,rita.basnet@email.com,N,N,2025-09-10,Healthcare
+108,Sabin,KC,30,Male,MD,sabin.kc@email.com,Y,N,2025-08-20,Finance
+109,Bishal,Rai,25,Male,VA,bishal.rai@email.com,N,N,2025-09-30,Healthcare
+110,Sita,Maharjan,36,Female,NC,sita.maharjan@email.com,N,N,2025-09-18,Healthcare
